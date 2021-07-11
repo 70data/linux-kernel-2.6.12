@@ -1,1 +1,1 @@
-# Linux 2.6.12 代码注释
+# Linux Kernel 2.6.12 代码注释
